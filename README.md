@@ -1,1 +1,0 @@
-# tgaffiliatebot-python
